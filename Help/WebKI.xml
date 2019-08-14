@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Character field" Url="html/F-Diamond.CheckInput.Character.htm" />
+  <HelpKINode Title="CheckChar method" Url="html/M-Diamond.CheckInput.CheckChar.htm" />
+  <HelpKINode Title="CheckInput class">
+    <HelpKINode Title="CheckInput Class" Url="html/T-Diamond.CheckInput.htm" />
+    <HelpKINode Title="CheckInput Members" Url="html/AllMembers.T-Diamond.CheckInput.htm" />
+    <HelpKINode Title="about CheckInput class" Url="html/T-Diamond.CheckInput.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Diamond.CheckInput.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Diamond.CheckInput.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Diamond.CheckInput.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CheckInput.Character field" Url="html/F-Diamond.CheckInput.Character.htm" />
+  <HelpKINode Title="CheckInput.CheckChar method" Url="html/M-Diamond.CheckInput.CheckChar.htm" />
+  <HelpKINode Title="CheckLetterReturnsCorrectAmountOfRowsForC method" Url="html/M-DiamondTests.DiamondTests.CheckLetterReturnsCorrectAmountOfRowsForC.htm" />
+  <HelpKINode Title="CheckLetterReturnsCorrectAmountOfRowsForM method" Url="html/M-DiamondTests.DiamondTests.CheckLetterReturnsCorrectAmountOfRowsForM.htm" />
+  <HelpKINode Title="Diamond namespace" Url="html/N-Diamond.htm" />
+  <HelpKINode Title="Diamond.CheckInput class">
+    <HelpKINode Title="CheckInput Class" Url="html/T-Diamond.CheckInput.htm" />
+    <HelpKINode Title="CheckInput Members" Url="html/AllMembers.T-Diamond.CheckInput.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Diamond.DiamondCreator class">
+    <HelpKINode Title="DiamondCreator Class" Url="html/T-Diamond.DiamondCreator.htm" />
+    <HelpKINode Title="DiamondCreator Members" Url="html/AllMembers.T-Diamond.DiamondCreator.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Diamond.PrintDiamond class">
+    <HelpKINode Title="PrintDiamond Class" Url="html/T-Diamond.PrintDiamond.htm" />
+    <HelpKINode Title="PrintDiamond Members" Url="html/AllMembers.T-Diamond.PrintDiamond.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Diamond.Program class">
+    <HelpKINode Title="Program Class" Url="html/T-Diamond.Program.htm" />
+    <HelpKINode Title="Program Members" Url="html/AllMembers.T-Diamond.Program.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Diamond.RowCount class">
+    <HelpKINode Title="RowCount Class" Url="html/T-Diamond.RowCount.htm" />
+    <HelpKINode Title="RowCount Members" Url="html/AllMembers.T-Diamond.RowCount.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DiamondCreator class">
+    <HelpKINode Title="DiamondCreator Class" Url="html/T-Diamond.DiamondCreator.htm" />
+    <HelpKINode Title="DiamondCreator Members" Url="html/AllMembers.T-Diamond.DiamondCreator.htm" />
+    <HelpKINode Title="about DiamondCreator class" Url="html/T-Diamond.DiamondCreator.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Diamond.DiamondCreator.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Diamond.DiamondCreator.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DiamondCreator.GenerateDiamond method" Url="html/M-Diamond.DiamondCreator.GenerateDiamond.htm" />
+  <HelpKINode Title="DiamondTests class">
+    <HelpKINode Title="DiamondTests Class" Url="html/T-DiamondTests.DiamondTests.htm" />
+    <HelpKINode Title="DiamondTests Members" Url="html/AllMembers.T-DiamondTests.DiamondTests.htm" />
+    <HelpKINode Title="about DiamondTests class" Url="html/T-DiamondTests.DiamondTests.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-DiamondTests.DiamondTests.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-DiamondTests.DiamondTests.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DiamondTests namespace" Url="html/N-DiamondTests.htm" />
+  <HelpKINode Title="DiamondTests.CheckLetterReturnsCorrectAmountOfRowsForC method" Url="html/M-DiamondTests.DiamondTests.CheckLetterReturnsCorrectAmountOfRowsForC.htm" />
+  <HelpKINode Title="DiamondTests.CheckLetterReturnsCorrectAmountOfRowsForM method" Url="html/M-DiamondTests.DiamondTests.CheckLetterReturnsCorrectAmountOfRowsForM.htm" />
+  <HelpKINode Title="DiamondTests.DiamondTests class">
+    <HelpKINode Title="DiamondTests Class" Url="html/T-DiamondTests.DiamondTests.htm" />
+    <HelpKINode Title="DiamondTests Members" Url="html/AllMembers.T-DiamondTests.DiamondTests.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DiamondTests.MakeSureInputIsALetterInTheAlphabet method" Url="html/M-DiamondTests.DiamondTests.MakeSureInputIsALetterInTheAlphabet.htm" />
+  <HelpKINode Title="DiamondTests.MakeSureInvalidInputGetsChanged method" Url="html/M-DiamondTests.DiamondTests.MakeSureInvalidInputGetsChanged.htm" />
+  <HelpKINode Title="GenerateDiamond method" Url="html/M-Diamond.DiamondCreator.GenerateDiamond.htm" />
+  <HelpKINode Title="GetRowCount method" Url="html/M-Diamond.RowCount.GetRowCount.htm" />
+  <HelpKINode Title="Main method" Url="html/M-Diamond.Program.Main.htm" />
+  <HelpKINode Title="MakeSureInputIsALetterInTheAlphabet method" Url="html/M-DiamondTests.DiamondTests.MakeSureInputIsALetterInTheAlphabet.htm" />
+  <HelpKINode Title="MakeSureInvalidInputGetsChanged method" Url="html/M-DiamondTests.DiamondTests.MakeSureInvalidInputGetsChanged.htm" />
+  <HelpKINode Title="Print method" Url="html/M-Diamond.PrintDiamond.Print.htm" />
+  <HelpKINode Title="PrintDiamond class">
+    <HelpKINode Title="PrintDiamond Class" Url="html/T-Diamond.PrintDiamond.htm" />
+    <HelpKINode Title="PrintDiamond Members" Url="html/AllMembers.T-Diamond.PrintDiamond.htm" />
+    <HelpKINode Title="about PrintDiamond class" Url="html/T-Diamond.PrintDiamond.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Diamond.PrintDiamond.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Diamond.PrintDiamond.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PrintDiamond.Print method" Url="html/M-Diamond.PrintDiamond.Print.htm" />
+  <HelpKINode Title="Program class">
+    <HelpKINode Title="Program Class" Url="html/T-Diamond.Program.htm" />
+    <HelpKINode Title="Program Members" Url="html/AllMembers.T-Diamond.Program.htm" />
+    <HelpKINode Title="about Program class" Url="html/T-Diamond.Program.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Diamond.Program.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Diamond.Program.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Program.Main method" Url="html/M-Diamond.Program.Main.htm" />
+  <HelpKINode Title="RowCount class">
+    <HelpKINode Title="RowCount Class" Url="html/T-Diamond.RowCount.htm" />
+    <HelpKINode Title="RowCount Members" Url="html/AllMembers.T-Diamond.RowCount.htm" />
+    <HelpKINode Title="about RowCount class" Url="html/T-Diamond.RowCount.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Diamond.RowCount.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Diamond.RowCount.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RowCount.GetRowCount method" Url="html/M-Diamond.RowCount.GetRowCount.htm" />
+</HelpKI>

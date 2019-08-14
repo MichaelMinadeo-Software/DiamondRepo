@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="e866921a-af99-4cbe-9804-1fb73349b8f7" Title="Diamond Namespace" Url="html/N-Diamond.htm">
+    <HelpTOCNode Id="1818ab85-f908-4ed8-b2a3-5c7174a2b71b" Title="CheckInput Class" Url="html/T-Diamond.CheckInput.htm">
+      <HelpTOCNode Title="CheckInput Members" Url="html/AllMembers.T-Diamond.CheckInput.htm" />
+      <HelpTOCNode Id="6fb56308-f05c-419f-9010-25377b424903" Title="CheckInput Fields" Url="html/Fields.T-Diamond.CheckInput.htm">
+        <HelpTOCNode Title="Character Field" Url="html/F-Diamond.CheckInput.Character.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f182e4d2-c44d-4f99-90a1-a5736563ec50" Title="CheckInput Methods" Url="html/Methods.T-Diamond.CheckInput.htm">
+        <HelpTOCNode Title="CheckChar Method " Url="html/M-Diamond.CheckInput.CheckChar.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6b80a1fc-0c88-4f3e-9f30-ad9656d8f4ba" Title="DiamondCreator Class" Url="html/T-Diamond.DiamondCreator.htm">
+      <HelpTOCNode Title="DiamondCreator Members" Url="html/AllMembers.T-Diamond.DiamondCreator.htm" />
+      <HelpTOCNode Id="ab714256-2a8b-41f1-bdc4-a55b4e3f67a6" Title="DiamondCreator Methods" Url="html/Methods.T-Diamond.DiamondCreator.htm">
+        <HelpTOCNode Title="GenerateDiamond Method " Url="html/M-Diamond.DiamondCreator.GenerateDiamond.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="69bcf32f-b06c-4610-b980-f9293ec48f72" Title="PrintDiamond Class" Url="html/T-Diamond.PrintDiamond.htm">
+      <HelpTOCNode Title="PrintDiamond Members" Url="html/AllMembers.T-Diamond.PrintDiamond.htm" />
+      <HelpTOCNode Id="1732fe00-4d80-4045-8d41-5c1f55f1d4a9" Title="PrintDiamond Methods" Url="html/Methods.T-Diamond.PrintDiamond.htm">
+        <HelpTOCNode Title="Print Method " Url="html/M-Diamond.PrintDiamond.Print.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="80b42c1f-4a5b-4880-9a88-7fb26008ab76" Title="Program Class" Url="html/T-Diamond.Program.htm">
+      <HelpTOCNode Title="Program Members" Url="html/AllMembers.T-Diamond.Program.htm" />
+      <HelpTOCNode Id="30ccb6ab-f17a-4cc4-a513-b1836cf081ec" Title="Program Methods" Url="html/Methods.T-Diamond.Program.htm">
+        <HelpTOCNode Title="Main Method " Url="html/M-Diamond.Program.Main.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="69c6659b-ae7e-4676-b980-e958ca8d86e6" Title="RowCount Class" Url="html/T-Diamond.RowCount.htm">
+      <HelpTOCNode Title="RowCount Members" Url="html/AllMembers.T-Diamond.RowCount.htm" />
+      <HelpTOCNode Id="c45c9090-9d77-4998-b708-618b088841f4" Title="RowCount Methods" Url="html/Methods.T-Diamond.RowCount.htm">
+        <HelpTOCNode Title="GetRowCount Method " Url="html/M-Diamond.RowCount.GetRowCount.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="fe1f6d5b-d5a3-408f-825b-1cee46caed0f" Title="DiamondTests Namespace" Url="html/N-DiamondTests.htm">
+    <HelpTOCNode Id="f9882735-34a4-45e0-8ee7-8ddbdfd6b76f" Title="DiamondTests Class" Url="html/T-DiamondTests.DiamondTests.htm">
+      <HelpTOCNode Title="DiamondTests Members" Url="html/AllMembers.T-DiamondTests.DiamondTests.htm" />
+      <HelpTOCNode Id="e8d5dcc6-7848-4f8e-9f07-4e1dc8a42ef2" Title="DiamondTests Methods" Url="html/Methods.T-DiamondTests.DiamondTests.htm">
+        <HelpTOCNode Title="CheckLetterReturnsCorrectAmountOfRowsForC Method " Url="html/M-DiamondTests.DiamondTests.CheckLetterReturnsCorrectAmountOfRowsForC.htm" />
+        <HelpTOCNode Title="CheckLetterReturnsCorrectAmountOfRowsForM Method " Url="html/M-DiamondTests.DiamondTests.CheckLetterReturnsCorrectAmountOfRowsForM.htm" />
+        <HelpTOCNode Title="MakeSureInputIsALetterInTheAlphabet Method " Url="html/M-DiamondTests.DiamondTests.MakeSureInputIsALetterInTheAlphabet.htm" />
+        <HelpTOCNode Title="MakeSureInvalidInputGetsChanged Method " Url="html/M-DiamondTests.DiamondTests.MakeSureInvalidInputGetsChanged.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

@@ -1,4 +1,17 @@
-﻿using System.Reflection;
+﻿// ***********************************************************************
+// Assembly         : Diamond
+// Author           : rr333491
+// Created          : 08-12-2019
+//
+// Last Modified By : rr333491
+// Last Modified On : 08-12-2019
+// ***********************************************************************
+// <copyright file="AssemblyInfo.cs" company="RR Donnelley">
+//     Copyright © RR Donnelley 2019
+// </copyright>
+// <summary></summary>
+// ***********************************************************************
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 

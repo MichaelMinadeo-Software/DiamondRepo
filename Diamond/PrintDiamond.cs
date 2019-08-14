@@ -1,4 +1,17 @@
-﻿using System;
+﻿// ***********************************************************************
+// Assembly         : Diamond
+// Author           : rr333491
+// Created          : 08-13-2019
+//
+// Last Modified By : rr333491
+// Last Modified On : 08-13-2019
+// ***********************************************************************
+// <copyright file="PrintDiamond.cs" company="RR Donnelley">
+//     Copyright © RR Donnelley 2019
+// </copyright>
+// <summary></summary>
+// ***********************************************************************
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,15 +19,22 @@ using System.Threading.Tasks;
 
 namespace Diamond
 {
+    /// <summary>
+    /// Class PrintDiamond.
+    /// </summary>
     public class PrintDiamond
     {
 
         // Prints the Diamond in console based on Rows & letter
+        /// <summary>
+        /// Prints the specified n.
+        /// </summary>
+        /// <param name="n">The n.</param>
         public static void Print(int n)
         {
             var rows = Math.Ceiling((decimal)n / 2);
-            // run loop   
-            // til number of rows 
+            // run loop  
+            // for top of diamond rows
             var outsideSpace = (int)rows;
             var insideSpace = 1;
 

@@ -1,9 +1,30 @@
-﻿using System;
+﻿// ***********************************************************************
+// Assembly         : Diamond
+// Author           : rr333491
+// Created          : 08-12-2019
+//
+// Last Modified By : rr333491
+// Last Modified On : 08-13-2019
+// ***********************************************************************
+// <copyright file="Program.cs" company="RR Donnelley">
+//     Copyright © RR Donnelley 2019
+// </copyright>
+// <summary></summary>
+// ***********************************************************************
+using System;
 
 namespace Diamond
 {
+    /// <summary>
+    /// Class Program.
+    /// </summary>
     public static class Program
     {
+        /// <summary>
+        /// Defines the entry point of the application.
+        /// </summary>
+        /// <param name="args">The arguments.</param>
+        /// <exception cref="InvalidOperationException"></exception>
         public static void Main(string[] args)
         {
             Console.Write("\n");

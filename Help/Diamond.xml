@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <assembly>
+    <name>Diamond</name>
+  </assembly>
+  <members>
+    <member name="T:Diamond.CheckInput">
+      <summary>
+   Class CheckInput.
+   </summary>
+    </member>
+    <member name="F:Diamond.CheckInput.Character">
+      <summary>
+   The character
+   </summary>
+    </member>
+    <member name="M:Diamond.CheckInput.CheckChar(System.Char)">
+      <summary>
+   Checks the character.
+   </summary>
+      <param name="c">The c.</param>
+      <returns>System.Char.</returns>
+      <exception cref="T:System.InvalidOperationException">
+      </exception>
+    </member>
+    <member name="T:Diamond.DiamondCreator">
+      <summary>
+   Class DiamondCreator.
+   </summary>
+    </member>
+    <member name="M:Diamond.DiamondCreator.GenerateDiamond(System.Char)">
+      <summary>
+   Generates the diamond.
+   </summary>
+      <param name="input">The input.</param>
+    </member>
+    <member name="T:Diamond.PrintDiamond">
+      <summary>
+   Class PrintDiamond.
+   </summary>
+    </member>
+    <member name="M:Diamond.PrintDiamond.Print(System.Int32)">
+      <summary>
+   Prints the specified n.
+   </summary>
+      <param name="n">The n.</param>
+    </member>
+    <member name="T:Diamond.Program">
+      <summary>
+   Class Program.
+   </summary>
+    </member>
+    <member name="M:Diamond.Program.Main(System.String[])">
+      <summary>
+   Defines the entry point of the application.
+   </summary>
+      <param name="args">The arguments.</param>
+      <exception cref="T:System.InvalidOperationException">
+      </exception>
+    </member>
+    <member name="T:Diamond.RowCount">
+      <summary>
+   Class RowCount.
+   </summary>
+    </member>
+    <member name="M:Diamond.RowCount.GetRowCount(System.Char)">
+      <summary>
+   Gets the row count.
+   </summary>
+      <param name="letter">The letter.</param>
+      <returns>System.Int32.</returns>
+    </member>
+  </members>
+</doc>
