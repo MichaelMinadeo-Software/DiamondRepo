@@ -1,4 +1,4 @@
-# Projects
+# Diamond Projects
 
 Console App to create a Diaond when a letter from the alphabet is selected as the middle of the diamond. 
 
