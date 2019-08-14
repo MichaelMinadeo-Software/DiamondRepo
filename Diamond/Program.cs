@@ -1,9 +1,9 @@
 ﻿// ***********************************************************************
 // Assembly         : Diamond
-// Author           : rr333491
+// Author           : Michael Minadeo
 // Created          : 08-12-2019
 //
-// Last Modified By : rr333491
+// Last Modified By : Michael Minadeo
 // Last Modified On : 08-13-2019
 // ***********************************************************************
 // <copyright file="Program.cs" company="RR Donnelley">
